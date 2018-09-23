@@ -1,4 +1,4 @@
-package com.example.algamoney.api.execptionhandler;
+package com.example.algamoney.api.exceptionhandler;
 
 import java.util.ArrayList;
 import java.util.Arrays;
